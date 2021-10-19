@@ -2,6 +2,29 @@
 
 ![Banner for Gerardo Geronimo - Apprentice Software Developer](https://raw.githubusercontent.com/gajaguar/gajaguar/main/cover.png)
 
+### 🚀 My personal projects:
+
+- **[SCT Standards](https://gajaguar.github.io/sct-standards/ ):**
+  An index of entire standards published by SCT, an mexican organism that supervise highway constructions. The plus in this site is a searching  more easy than original site.
+
+- **[AMAAC calculator](https://gajaguar.github.io/amaac-calculator/):**
+  This is a complete calculations page of all aspects of the design of highways under the AMAAC protocol.
+
+- **[Specific Surface Calculator](https://github.com/gajaguar/specific-surface-calculator):**
+  Built in HTML5 and vanilla JavaScript this site helps in the initial steps of the bituminous mixtures design to use on highways construction.
+
+- **[Asphalt Consumption](https://gajaguar.github.io/lab-tools.old/calculators/asphalt-consumption/):**
+  In this site I show a simple calculation of the bitumen used in a mixture, through the utilization of Vue.js and Nuxt.js.
+  
+- **[@gajaguar/decimal](https://github.com/gajaguar/decimal):**
+  This package for NPM consumption, attempt facilitate the float numbers treatment.
+  
+- **[Future Value](https://github.com/gajaguar/future-value):**
+  This is a logical exercise that can be used to calculate the future value in an investment and the other related parameters.
+
+- **[Backend Nopde Evaluation](https://github.com/gajaguar/backend_node_evaluation):**
+  It was my admission test to the Platzi Master cohort. Implemented in TypeScript, I used technologies as Node.js and Express.js to connect to an MongoDB database.
+
 ### 🧮 My skills, just some of them:
 
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
