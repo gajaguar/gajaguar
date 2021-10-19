@@ -7,8 +7,8 @@
 - **[SCT Standards](https://gajaguar.github.io/sct-standards/ ):**
   An index of entire standards published by SCT, an mexican organism that supervise highway constructions. The plus in this site is a searching  more easy than original site.
 
-- **[AMAAC calculator](https://gajaguar.github.io/amaac-calculator/):**
-  This is a complete calculations page of all aspects of the design of highways under the AMAAC protocol.
+- **[AMAAC Calculator](https://gajaguar.github.io/amaac-calculator/):**
+  Ussing Vue.js and Bulma framework I built this as a complete calculations page of all aspects of the design of highways under the AMAAC protocol.
 
 - **[Specific Surface Calculator](https://github.com/gajaguar/specific-surface-calculator):**
   Built in HTML5 and vanilla JavaScript this site helps in the initial steps of the bituminous mixtures design to use on highways construction.
