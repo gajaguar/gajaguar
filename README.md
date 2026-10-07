@@ -1,4 +1,4 @@
-### Hi, I'm Gerardo 👋
+### Hi, I'm Gerardo Gerónimo (G.A.JAGUAR) 👋
 
 Software & AI engineer (Python). I build typed SDKs, CLIs and tooling that developers and AI agents use.
 
