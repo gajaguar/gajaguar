@@ -1,3 +1,5 @@
+![Banner for Gerardo Geronimo - @gajaguar](https://raw.githubusercontent.com/gajaguar/gajaguar/main/cover.png)
+
 ### Hi, I'm Gerardo Gerónimo (G.A.JAGUAR) 👋
 
 Software & AI engineer (Python). I build typed SDKs, CLIs and tooling that developers and AI agents use.
